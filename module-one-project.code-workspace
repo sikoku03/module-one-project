@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "module-one-project",
+			"path": "."
+		},
+		{
+			"name": "Develop",
+			"path": "../Develop"
+		}
+	],
+	"settings": {}
+}
